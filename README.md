@@ -3,90 +3,157 @@
     <br><br>
 </h3>
 
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
-  <a>
-  <img alt="License" src="https://camo.githubusercontent.com/e2f41b08ff03e8fa41c25edc05fc43dbfb62f363/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6961726c656e617175696c65732f65636f6c6574612d6170693f636f6c6f723d253233373531394331">
-</p>
+# 🌱 Ecoleta Mobile
 
-# Índice
+A mobile application that helps people find nearby recycling collection points and contribute to environmental sustainability.
 
-- [Sobre](#sobre)
-- [Documentação](#documentacao)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
+Built during the **Next Level Week (NLW)** by **Rocketseat**, this project was created with the purpose of connecting people to eco-friendly disposal locations, encouraging proper waste management and environmental awareness.
 
-<a id="sobre"></a>
+---
 
-## :bookmark: Sobre
+## 📌 Table of Contents
 
-O <strong>Ecoleta-mobile</strong> é uma aplicação para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+- [About](#about)
+- [Documentation](#documentation)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [How to Run](#how-to-run)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
 
-Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong>
+---
 
-<a id="documentacao"></a>
+## 📖 About
 
-## :books: Documentação
+**Ecoleta Mobile** is an application designed to help users locate recycling collection points quickly and easily.
 
-Em construção
+The project was developed during the **Booster Track** of **Next Level Week**, organized by Rocketseat. The idea came from the coincidence between the event dates and **Environment Week**, inspiring the creation of a sustainability-focused solution.
 
-<a id="tecnologias-utilizadas"></a>
+The app aims to promote environmental responsibility by making recycling more accessible and practical.
 
-## :rocket: Tecnologias Utilizadas
+---
 
-O mobile foi desenvolvido utilizando as seguintes tecnologias
+## 📚 Documentation
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Native](https://reactnative.dev/)
+Documentation is currently under development.
 
-## :heavy_check_mark: Resultado:
+---
 
-- O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
+## 🚀 Technologies Used
 
-<a id="como-usar"></a>
+This mobile application was built using:
 
-## :fire: Como usar
+- TypeScript
+- React Native
+- Expo
 
-- ### **Pré-requisitos**
+---
 
-  - É **necessário** possuir o **[React Native](https://reactnative.dev/)** instalado na máquina
-  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
-  - E o **[Expo](https://expo.io/)**
+## ✨ Features
 
-1. Faça um clone :
+- Search for recycling collection points
+- Mobile-friendly and intuitive interface
+- Fast and lightweight experience
+- Environmental awareness and sustainability focus
 
-```sh
-  $ git clone https://github.com/iarlenaquiles/ecoleta-mobile.git
+---
+
+## 🎨 Design
+
+The application layout is available on **Figma**:
+
+👉 https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/
+
+---
+
+## 🔥 How to Run
+
+### Prerequisites
+
+Before starting, make sure you have installed:
+
+- React Native
+- Node.js
+- npm or Yarn
+- Expo CLI
+
+---
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/iarlenaquiles/ecoleta-mobile.git
 ```
 
-2. Executando a Aplicação:
+---
 
-```sh
-  # Instale as dependências
-  $ yarn
+### 2. Install dependencies
 
-  # Inicie o app
-  $ yarn start
+```bash
+yarn
 ```
 
-<a id="como-contribuir"></a>
+or
 
-## :recycle: Como contribuir
+```bash
+npm install
+```
 
-- Faça um Fork desse repositório,
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
+---
 
-## :mortar_board: Quem ministrou?
+### 3. Start the application
 
-As aulas foram ministradas pelo mestre **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week**.
+```bash
+yarn start
+```
 
-## :memo: License
+or
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+```bash
+npm start
+```
+
+---
+
+## ♻️ How to Contribute
+
+Contributions are always welcome.
+
+### Steps:
+
+1. Fork this repository
+2. Create your feature branch
+
+```bash
+git checkout -b my-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "feat: My new feature"
+```
+
+4. Push your branch
+
+```bash
+git push origin my-feature
+```
+
+5. Open a Pull Request
+
+---
+
+## 👨‍🏫 Instructor
+
+This project was developed during classes taught by **Diego Fernandes** during **Next Level Week** by Rocketseat.
+
+---
+
+## 📝 License
+
+This project is under the MIT License.
+
+See the [LICENSE](LICENSE.md) file for more details.
 
 ---
